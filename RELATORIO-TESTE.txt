@@ -1,0 +1,14 @@
+Rm80196	Ysmar Victor Alves Feitosa
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TesteJulgamento {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
