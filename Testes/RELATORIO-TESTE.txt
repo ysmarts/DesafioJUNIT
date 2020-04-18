@@ -278,4 +278,10 @@ public class JulgamentoPrisioneiro {
 	}
 }
 
+--------------------------------------------------------------Erro
+org.opentest4j.AssertionFailedError: expected: <0> but was: <10>
+
+--------------------------------------------------------------Solução
+Para correção deste erro foi feita a mudança do valor da pena de condenação inocente de 10 para 0
+
 
